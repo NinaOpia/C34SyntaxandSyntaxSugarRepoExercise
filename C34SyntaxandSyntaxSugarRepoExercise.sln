@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C34SyntaxandSyntaxSugarRepoExercise", "C34SyntaxandSyntaxSugarRepoExercise\C34SyntaxandSyntaxSugarRepoExercise.csproj", "{B54BFE03-B478-42A8-81D5-5E8C9B1D399F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54BFE03-B478-42A8-81D5-5E8C9B1D399F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54BFE03-B478-42A8-81D5-5E8C9B1D399F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54BFE03-B478-42A8-81D5-5E8C9B1D399F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54BFE03-B478-42A8-81D5-5E8C9B1D399F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E694A5D9-D8E0-4A8E-8969-514573A602CA}
+	EndGlobalSection
+EndGlobal
